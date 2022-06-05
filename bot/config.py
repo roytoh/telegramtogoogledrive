@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5422619303:AAF6JFs9hs-a8HhSpM7qfnTGicb_D8UWFgM" #From Telegram Bot Father
+    APP_ID = "10013918" # From my.telegram.org
+    API_HASH = "b58707df284a92336e0868c35cdf2320" # From my.telegram.org
+    DATABASE_URL = "postgres://plgsvtcxbmqdxg:bcb9dc047ede8ef3623a5f3ddf4ae0d6c91021925ebb16699ff1a5e1b3a6cae2@ec2-3-211-221-185.compute-1.amazonaws.com:5432/dde2svnc7b4a6s" #From Heroku
+    SUDO_USERS = "633140891" # Seperated by space. #From Telegram userinfobot
+    SUPPORT_CHAT_LINK = "https://t.me/+kU5hbuYrou5hMDk1"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
