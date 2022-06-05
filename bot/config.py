@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "633140891" # Seperated by space. #From Telegram userinfobot
     SUPPORT_CHAT_LINK = "https://t.me/+kU5hbuYrou5hMDk1"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    #G_DRIVE_CLIENT_ID = ""
-    #G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "69287978829-4d80r667nlmoj89nblvu7fpoj1il6o7v.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
